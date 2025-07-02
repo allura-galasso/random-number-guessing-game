@@ -1,0 +1,15 @@
+{
+    "easy": {
+        "Allura": 4,
+        "Antonietta": 5
+    },
+    "medium": {
+        "leia": 6,
+        "Joe": 7,
+        "Allura": 9
+    },
+    "hard": {},
+    "insane": {
+        "leia": 10
+    }
+}
